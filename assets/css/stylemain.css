@@ -148,6 +148,29 @@ body
   font-weight: 300;
 }
 
+.contactInfo.certificate li
+{
+  margin-bottom: 15px;
+}
+
+.contactInfo.certificate h5
+{
+  color: #03a9f4;
+  font-weight: 500;
+}
+
+.contactInfo.certificate h4:nth-child(2)
+{
+  color: #fff;
+  font-weight: 500;
+}
+
+.contactInfo.certificate h4
+{
+  color: #fff;
+  font-weight: 300;
+}
+
 .contactInfo.language .percent
 {
   position: relative;
